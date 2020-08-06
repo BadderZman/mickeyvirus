@@ -50,11 +50,11 @@ def banner():
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: MickyVirus             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
+    print GL+"  |             Pray First Before Using       |"
     print WW+"  |            FACEBOOK: MickyVirus            |"
     print Y+"  |             INSTAGRAM: MickyVirus              |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |                    Pak Black Army [ P.B.A ]         |"
+    print GL+"  |            Pak Black Army [ P.B.A ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK Account ^_^   •••••••••|"
@@ -74,7 +74,7 @@ useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/
 
 def pil():
                 print GG+" "
-                g = str(raw_input("[?] Hack Fb lagi..\033[93;1m[y/n]: "))
+                g = str(raw_input("[?] Hack Fb again..\033[93;1m[y/n]: "))
                 if g == 'y' or g == 'Y':
                     os.system('python2 brute.py')
                 elif g == 'n' or g == 'N':
